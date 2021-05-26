@@ -1,0 +1,11 @@
+.navlogob{
+  font-family: Truelies;
+  font-size: 1.5em;
+  transform: rotate(-9deg);  
+  margin-top: 3px;
+}
+
+@font-face {
+  font-family: Truelies;
+  src: url(TrueLies.ttf);
+}
